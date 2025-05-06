@@ -27,28 +27,28 @@
 ## Phase 4: Task 2
 
 Here is a representative sample of events that happen:
-Tue Mar 25 17:26:37 PDT 2025
-Added entry Tuition with goal 8000 and amount 550
-Tue Mar 25 17:26:37 PDT 2025
-Saved entries to file!
-Tue Mar 25 17:26:39 PDT 2025
-Cleared all entries
-Tue Mar 25 17:26:43 PDT 2025
-Added entry Grocery with goal 500 and amount 52
-Tue Mar 25 17:26:47 PDT 2025
-Changed entry title from Grocery to Food!
-Tue Mar 25 17:26:47 PDT 2025
-Changed entry title from Tuition to School!
-Tue Mar 25 17:26:47 PDT 2025
-Changed entry title from Food to Groceries and Food!
-Tue Mar 25 17:26:48 PDT 2025
-Removed entry School
-Tue Mar 25 17:26:50 PDT 2025
-Saved entries to file!
-Tue Mar 25 17:26:51 PDT 2025
-Cleared all entries
-Tue Mar 25 17:26:50 PDT 2025
-Loaded entries from file!
+<br/>Tue Mar 25 17:26:37 PDT 2025
+<br/>Added entry Tuition with goal 8000 and amount 550
+<br/>Tue Mar 25 17:26:37 PDT 2025
+<br/>Saved entries to file!
+<br/>Tue Mar 25 17:26:39 PDT 2025
+<br/>Cleared all entries
+<br/>Tue Mar 25 17:26:43 PDT 2025
+<br/>Added entry Grocery with goal 500 and amount 52
+<br/>Tue Mar 25 17:26:47 PDT 2025
+<br/>Changed entry title from Grocery to Food!
+<br/>Tue Mar 25 17:26:47 PDT 2025
+<br/>Changed entry title from Tuition to School!
+<br/>Tue Mar 25 17:26:47 PDT 2025
+<br/>Changed entry title from Food to Groceries and Food!
+<br/>Tue Mar 25 17:26:48 PDT 2025
+<br/>Removed entry School
+<br/>Tue Mar 25 17:26:50 PDT 2025
+<br/>Saved entries to file!
+<br/>Tue Mar 25 17:26:51 PDT 2025
+<br/>Cleared all entries
+<br/>Tue Mar 25 17:26:50 PDT 2025
+<br/>Loaded entries from file!
 
 ## Phase 4: Task 3
 
