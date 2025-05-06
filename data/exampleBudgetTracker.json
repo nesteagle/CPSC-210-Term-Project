@@ -1,0 +1,19 @@
+{
+    "entries": [
+        {
+            "title": "Savings",
+            "goal": 500,
+            "amount": 50
+        },
+        {
+            "title": "Groceries",
+            "goal": 200,
+            "amount": 150
+        },
+        {
+            "title": "Misc",
+            "goal": 350,
+            "amount": 0
+        }
+    ]
+}
